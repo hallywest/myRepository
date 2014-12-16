@@ -1,4 +1,4 @@
-package com.westsea.career;
+package com.hallywest.career;
 
 public class Pastor implements Career{
 

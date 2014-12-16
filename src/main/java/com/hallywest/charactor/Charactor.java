@@ -1,4 +1,4 @@
-package com.westsea.charactor;
+package com.hallywest.charactor;
 
 public class Charactor {
 

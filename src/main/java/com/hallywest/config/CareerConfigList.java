@@ -1,4 +1,4 @@
-package com.westsea.config;
+package com.hallywest.config;
 
 import static java.lang.annotation.ElementType.TYPE;
 
