@@ -12,6 +12,7 @@ public @interface CareerConfigList {
 	CareerConfig[] value();
 }
 
+@Retention(RetentionPolicy.RUNTIME)
 @interface CareerConfig {
 	String name();
 	double hpInc();
